@@ -19,12 +19,12 @@ version = '0.0.1'
 group = 'ehu.isad'
 
 // ext.moduleName = 'gradlejavafxhelloworld'
-mainClassName = "$moduleName/ehu.isad.App"
+mainClassName = "$moduleName/ehu.isad.Main"
 
 
 javafx {
     version = "12"
-    modules = [ ]
+    modules = [  ]
 }
 
 
